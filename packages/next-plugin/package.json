@@ -1,15 +1,15 @@
 {
-  "name": "@vanilla-extract/next-plugin",
-  "version": "2.1.1",
+  "name": "@mh-jack/vanilla-extract-next-plugin",
+  "version": "2.1.2",
   "description": "Zero-runtime Stylesheets-in-TypeScript",
-  "main": "dist/vanilla-extract-next-plugin.cjs.js",
-  "module": "dist/vanilla-extract-next-plugin.esm.js",
+  "main": "dist/mh-jack-vanilla-extract-next-plugin.cjs.js",
+  "module": "dist/mh-jack-vanilla-extract-next-plugin.esm.js",
   "files": [
     "/dist"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vanilla-extract-css/vanilla-extract.git",
+    "url": "https://github.com/mh-jack/vanilla-extract.git",
     "directory": "packages/next-plugin"
   },
   "author": "SEEK",
